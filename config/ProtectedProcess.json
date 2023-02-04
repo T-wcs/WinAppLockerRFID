@@ -1,0 +1,10 @@
+{
+  "ProcessusProtected": {
+      "ProcessName": [
+        "notepad.exe",
+        "CalculatorApp.exe",
+        "KeePass.exe",
+        "TaskManager.exe"
+      ]
+  }
+}
